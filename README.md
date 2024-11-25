@@ -2,11 +2,11 @@
 Final Database Project for CIS 3212 Database Systems at Catawba College
 ##Project overview
 
-##Database model
+## Database model
 
-##SQL statements
+## SQL statements
 
-##Screenshots
+## Screenshots
 <BR>
 <img src="Screenshot 2024-11-19 212441.png">
 
