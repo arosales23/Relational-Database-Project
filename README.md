@@ -9,4 +9,5 @@ Final Database Project for CIS 3212 Database Systems at Catawba College
 ##Screenshots
 <BR>
 <img sc="Screenshot 2024-11-19 212441.png">
+
 #Systems Specifications#
