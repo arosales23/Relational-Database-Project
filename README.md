@@ -1,12 +1,11 @@
 # Relational Database Project Using MySQL
 Final Database Project for CIS 3212 Database Systems at Catawba College
 
-## Project overview
+## Project Overview
 
-## Database model
+## Database Model
 
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
-## SQL statements
+## SQL Statements
 
 ## Screenshots
 <BR>
