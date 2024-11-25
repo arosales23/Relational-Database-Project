@@ -5,6 +5,7 @@ Final Database Project for CIS 3212 Database Systems at Catawba College
 
 ## Database model
 
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
 ## SQL statements
 
 ## Screenshots
